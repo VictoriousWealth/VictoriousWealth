@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nick 👋</h1>
 
-<p align="center">
+<p>
   🎓 Software Engineering @ University of Sheffield (MEng, 2027)<br>
   🔭 Currently working on: AI-powered Quiz App, JobTrackr<br>
   💻 Tech Stack: Java, Spring Boot, FastAPI, Python, React.js, PostgreSQL, MongoDB<br>
