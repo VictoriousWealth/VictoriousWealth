@@ -32,11 +32,32 @@ Tools & Other:   Git, Docker, Postman, Heroku, Render, GitHub Actions
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![Nick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=github_dark&hide_border=true" alt="Nick's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriousWealth&layout=compact&theme=github_dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriousWealth&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VictoriousWealth&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VictoriousWealth&theme=darkhub&no-frame=true&rank=SECRET,SSS,SS,S,A,B" alt="Trophies" />
+</p>
+
 
 ---
 
