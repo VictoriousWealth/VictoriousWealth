@@ -47,7 +47,7 @@ Tools & Other:   Git, Docker, Postman, Heroku, Render, GitHub Actions
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VictoriousWealth&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
