@@ -5,7 +5,7 @@
   🔭 Currently working on: AI-powered Quiz App, JobTrackr<br>
   💻 Tech Stack: Java, Spring Boot, FastAPI, Python, React.js, PostgreSQL, MongoDB<br>
   🌍 I've lived in 🇮🇹 🇳🇬 🇧🇪 🇬🇧 and love meeting people from all cultures<br>
-  📫 Reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/) • [GitHub](https://github.com/VictoriousWealth)
+  📫 Reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 </p>
 
 ---
