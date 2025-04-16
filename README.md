@@ -44,19 +44,10 @@ Tools & Other:   Git, Docker, Postman, Heroku, Render, GitHub Actions
 
 ---
 
-### 🔥 GitHub Streak
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VictoriousWealth&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VictoriousWealth&theme=darkhub&no-frame=true&rank=SECRET,SSS,SS,S,A,B" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=VictoriousWealth&theme=github-compact" alt="GitHub Contribution Graph"/>
 </p>
 
 
