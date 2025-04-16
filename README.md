@@ -65,7 +65,7 @@
 - 🌍 I've lived in Italy 🇮🇹, Nigeria 🇳🇬, Belgium 🇧🇪, and the UK 🇬🇧  
 - 🎤 I love singing Broadway tunes and karaoke nights  
 - 🎮 Gamer at heart – Wild Rift & Monster Legends  
-- 🍝 Big fan of spicy Nigerian fried rice, Belgian waffles, and Pasta al dente  
+- 🍝 Big fan of spicy Nigerian fried rice special combo (ifykyk), Belgian waffles, and Pasta al dente  
 
 ---
 
