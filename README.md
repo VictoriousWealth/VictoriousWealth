@@ -35,7 +35,7 @@
 - 🎯 [**Avocado Analytics Dashboard**](https://github.com/VictoriousWealth/Avocado-Analytics) – Upload files → get smart quizzes powered by Gemini AI  
 - 🎯 [**AI Quiz App**](http://github.com/VictoriousWealth/quiz-app-frontend) – Upload files → get smart quizzes powered by Gemini AI  
 - 💼 [**JobTrackr**](https://github.com/VictoriousWealth/job-application-tracker) – Full-stack job application tracker with Spring Boot backend  
-- 🎵 [**Band Management System**]([https](https://github.com/VictoriousWealth/Band-Management-System)) – Organize bands, members, and gigs (Java + PostgreSQL)
+- 🎵 [**Band Management System**](https://github.com/VictoriousWealth/Band-Management-System) – Organize bands, members, and gigs (Java + PostgreSQL)
 
 ---
 
