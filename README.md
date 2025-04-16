@@ -50,11 +50,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=github_dark&hide_border=true" alt="Nick's GitHub Stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriousWealth&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
