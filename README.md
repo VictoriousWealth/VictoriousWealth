@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nick 👋</h1>
+<h1 align="center">Hi there,   I'm Nick 👋</h1>
 
 <p>
   🎓 Software Engineering @ University of Sheffield (MEng, 2027)<br>
