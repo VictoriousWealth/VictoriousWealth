@@ -38,10 +38,6 @@ Tools & Other:   Git, Docker, Postman, Heroku, Render, GitHub Actions
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriousWealth&layout=compact&theme=github_dark&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=VictoriousWealth&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=VictoriousWealth&theme=darkhub&no-frame=true&rank=SECRET,SSS,SS,S,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ##💡 Projects
