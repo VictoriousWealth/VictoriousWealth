@@ -71,8 +71,8 @@
 
 ### 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- ✉️ Email: your@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/nick-efe-oni)
+- ✉️ Email: efeoni10@gmail.com
 
 ---
 
