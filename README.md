@@ -5,7 +5,7 @@
   🔭 Currently working on: AI-powered Quiz App & JobTrackr<br>
   💻 Tech Stack: Java, Spring Boot, FastAPI, React.js, PostgreSQL, MongoDB<br>
   🌍 I've lived in 🇮🇹 🇳🇬 🇧🇪 🇬🇧 and love meeting people from all cultures<br>
-  📫 Reach me on <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  📫 Reach me on <a href="https://www.linkedin.com/in/nick-efe-oni">LinkedIn</a>
 </p>
 
 ---
