@@ -48,18 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=github_dark&hide_border=true" alt="Nick's GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriousWealth&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 💬 Fun Facts
 
 - 🌍 I've lived in Italy 🇮🇹, Nigeria 🇳🇬, Belgium 🇧🇪, and the UK 🇬🇧  
