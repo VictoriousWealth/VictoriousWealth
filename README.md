@@ -32,7 +32,11 @@ Tools & Other:   Git, Docker, Postman, Heroku, Render, GitHub Actions
 
 ---
 
-## 📈 Stats
+### 📈 GitHub Stats
+
+![Nick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriousWealth&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
