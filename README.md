@@ -36,6 +36,7 @@
 - 🎯 [**AI Quiz App (Frontend + Backend)**](https://github.com/VictoriousWealth/quiz-app-frontend) – Upload files → auto-generate quizzes with Gemini AI (FastAPI backend + React frontend)
 - 💼 [**JobTrackr**](https://github.com/VictoriousWealth/job-application-tracker) – Full-stack job application tracker with Spring Boot backend  
 - 🎵 [**Band Management System**](https://github.com/VictoriousWealth/Band-Management-System) – Organize bands, members, and gigs (Java + PostgreSQL)
+- 🛰️ [**Gemini Fact Checker**](https://github.com/VictoriousWealth/gemini-fact-checker) – Real-time wearable fact-checking badge built with Arduino, C++, Wi-Fi, and Gemini AI (Hackathon Project)
 
 ---
 
