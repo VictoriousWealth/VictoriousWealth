@@ -32,8 +32,8 @@
 
 ### ✨ Featured Projects
 
-- 🎯 [**Avocado Analytics Dashboard**](https://github.com/VictoriousWealth/Avocado-Analytics) – Upload files → get smart quizzes powered by Gemini AI  
-- 🎯 [**AI Quiz App**](http://github.com/VictoriousWealth/quiz-app-frontend) – Upload files → get smart quizzes powered by Gemini AI  
+- 🎯 [**Avocado Analytics Dashboard**](https://github.com/VictoriousWealth/Avocado-Analytics) – Interactive dashboard visualizing avocado sales trends (Dash + Python)
+- 🎯 [**AI Quiz App (Frontend + Backend)**](https://github.com/VictoriousWealth/quiz-app-frontend) – Upload files → auto-generate quizzes with Gemini AI (FastAPI backend + React frontend)
 - 💼 [**JobTrackr**](https://github.com/VictoriousWealth/job-application-tracker) – Full-stack job application tracker with Spring Boot backend  
 - 🎵 [**Band Management System**](https://github.com/VictoriousWealth/Band-Management-System) – Organize bands, members, and gigs (Java + PostgreSQL)
 
@@ -41,9 +41,9 @@
 
 ### 🧠 Currently Learning
 
-- Spring Security & OAuth2 🔐  
+- Spring Security & OAuth2 🔐 (JobTrackr project)  
 - Microservices & System Design ⚙️  
-- AI Integration using Gemini API 🤖  
+- AI Integration with Gemini API 🤖 (Quiz App project)  
 - Advanced PostgreSQL & Query Optimization 🐘  
 
 ---
