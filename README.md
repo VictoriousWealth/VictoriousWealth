@@ -25,8 +25,8 @@
 
 <div align="center">
     <div>
-        <img align=left src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" />
-        <img align=right src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" />
+        <img width='47%' align=left src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" />
+        <img width='47%' align=right src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" />
 <!--         <img src="https://ghchart.rshah.org/VictoriousWealth" alt="Nick's Repos Contributions" /> -->
     </div>
     <br><br><br><br><br><br><br><br><br>
