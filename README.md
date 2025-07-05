@@ -1,70 +1,125 @@
-<h1 align="center">Hi, I'm Nick 👋</h1>
+<h1 align="center">Hi there, I'm Nick 👋</h1>
 
-<p align="center">
-🎓 MEng Software Engineering @ University of Sheffield (2027)  <br>
-🔭 Passionate about Backend, AI & Full-Stack Development | Curious about FinTech & Cloud  <br>
-🌍 Global Perspective: 🇮🇹 🇳🇬 🇧🇪 🇬🇧  
+<p align='center'>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=783&height=75&lines=I'm+Nick+Efe+Oni,+a+Software+Engineering+Student++++;A+Full+Stack+Developer+and+an+Automation+Enthusiast;">
 </p>
+<div align='center'>
+    <img src="https://komarev.com/ghpvc/?username=VictoriousWealth&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=190px /> 
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VictoriousWealth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="250" frameBorder="0" class="giphy-embed" allowFullScreen />
 
----
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
-</p>
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **[JobTrackr](https://github.com/VictoriousWealth/job-application-tracker)** | Full-stack job application tracker to organize and streamline your job search. | Spring Boot, React |
-| **[AI Quiz App](https://github.com/VictoriousWealth/quiz-app-frontend)** | AI-powered quiz generator that creates interactive quizzes from file uploads using Gemini AI. | FastAPI, React |
-| **[Gemini Fact Checker](https://github.com/VictoriousWealth/gemini-fact-checker)** | Real-time wearable fact-checking badge built with Arduino for instant information validation. | C++, Arduino |
+<ul>
+  <li>🎓 MEng Software Engineering @ University of Sheffield (2027)</li>
+  <li>🔭 Passionate about Backend, AI & Full-Stack Development | Curious about FinTech & Cloud</li>
+  <li>🌍 Global Perspective: 🇮🇹 🇳🇬 🇧🇪 🇬🇧</li>
+  <li>📫 Reach me at <a href="mailto:efeoni10@gmail.com"><b>efeoni10@gmail.com</b></a></li>
+  <li>📄 Learn more about my experiences at [nick-efe-oni.dev](https://nick-efe-oni.dev) </li>
+  <li>📄 Learn more about my experiences at [nick-efe-oni.dev](https://nick-efe-oni.dev) </li>
+</ul>
 
 ---
 
 ## 📊 Stats & Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=default" alt="Nick's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictoriousWealth&theme=default" alt="Profile Summary" />
-</p>
+<div align="center">
+    <div>
+        <img align=left src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" />
+        <img align=right src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" />
+<!--         <img src="https://ghchart.rshah.org/VictoriousWealth" alt="Nick's Repos Contributions" /> -->
+    </div>
+    <br><br><br><br><br><br><br><br><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Achievements" />
+</div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🛠️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
-<p align="center">
-  <img src="https://github.com/VictoriousWealth/VictoriousWealth/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
+<p style="display: inline-block; text-align: center;">
+  
+  <kbd>
+    <kbd>Programming Languages</kbd>
+    <br><br>
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ruby/ruby-plain-wordmark.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+  </kbd>
+
+  <kbd>
+    <kbd>Front-end Development</kbd>
+    <br><br>
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain-wordmark.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain-wordmark.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
+  </kbd>
+
+  <kbd>
+    <kbd>Back-end Development</kbd>
+    <br><br>
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rails/rails-original-wordmark.svg" />
+    <img width="90px" src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*NIAh2_nKxPwK3gq2Jgrcfw.png" />
+    <img width="90px" src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/flask-icon-greenish" />
+    <img width="90px" src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/fast-api-icon" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <!-- for JavaFX -->
+  </kbd>
+
+  <kbd>
+    <kbd>Databases</kbd>
+    <br><br>
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  </kbd>
+
+  <kbd>
+    <kbd>DevOps & Deployment</kbd>
+    <br><br>
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <!-- For CI and version control -->
+  </kbd>
+
+
+  <kbd>
+    <kbd>Terminal & Scripting</kbd>
+    <br><br>
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
+    
+  </kbd>
+
+  <kbd>
+    <kbd>Embedded & IoT</kbd>
+    <br><br>
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original-wordmark.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ros/ros-original-wordmark.svg" />
+  </kbd>
+
+  <kbd>
+    <kbd>IDEs & Tools</kbd>
+    <br><br>
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
+  </kbd>
+
 </p>
 
----
 
-## 🎮 Fun Badges & Extras
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VictoriousWealth&theme=flat&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="Trophies" />
-  <br>
-  <img src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/assets/pokemon.svg" alt="Pokemon Collector Badge" width="200"/>
-</p>
-
----
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect with Me
 
