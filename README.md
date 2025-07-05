@@ -1,68 +1,92 @@
-<h1 >Hi there,   I'm Nick 👋</h1>
+<h1 align="center">Hi, I'm Nick 👋</h1>
 
-<p>
-  🎓 Software Engineering @ University of Sheffield (MEng, 2027)<br>
-  🔭 Currently working on: AI-powered Quiz App & JobTrackr<br>
-  💻 Tech Stack: Java, Spring Boot, FastAPI, React.js, PostgreSQL, MongoDB<br>
-  🌍 I've lived in 🇮🇹 🇳🇬 🇧🇪 🇬🇧 and love meeting people from all cultures<br>
-  📫 Reach me on <a href="https://www.linkedin.com/in/nick-efe-oni">LinkedIn</a>
+<p align="center">
+🎓 MEng Software Engineering @ University of Sheffield (2027)  <br>
+🔭 Passionate about Backend, AI & Full-Stack Development | Curious about FinTech & Cloud  <br>
+🌍 Global Perspective: 🇮🇹 🇳🇬 🇧🇪 🇬🇧  
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VictoriousWealth&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 🛠️ Tech Stack
 
-- 🎯 I love building real-world software to solve meaningful problems.
-- 🧠 Currently diving into backend engineering, cloud, and AI integration.
-- ⚙️ I experiment with microservices, advanced data design, and automation.
-- 💼 Actively working on full-stack apps and showcasing them here on GitHub.
-
----
-
-### 🛠️ Tech Stack
-
-- **Languages:** Java, Python, JavaScript, SQL, Haskell  
-- **Backend:** Spring Boot, FastAPI, Ruby on Rails  
-- **Frontend:** React.js, Bootstrap, Tailwind CSS  
-- **Databases:** PostgreSQL, MongoDB  
-- **AI/ML:** Gemini API (Prompt Engineering)  
-- **Tools & Other:** Git, Docker, Postman, Heroku, GitHub Actions  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
+</p>
 
 ---
 
-### ✨ Featured Projects
+## 📂 Featured Projects
 
-- 🎯 [**Avocado Analytics Dashboard**](https://github.com/VictoriousWealth/Avocado-Analytics) – Interactive dashboard visualizing avocado sales trends (Dash + Python)
-- 🎯 [**AI Quiz App (Frontend + Backend)**](https://github.com/VictoriousWealth/quiz-app-frontend) – Upload files → auto-generate quizzes with Gemini AI (FastAPI backend + React frontend)
-- 💼 [**JobTrackr**](https://github.com/VictoriousWealth/job-application-tracker) – Full-stack job application tracker with Spring Boot backend  
-- 🎵 [**Band Management System**](https://github.com/VictoriousWealth/Band-Management-System) – Organize bands, members, and gigs (Java + PostgreSQL)
-- 🛰️ [**Gemini Fact Checker**](https://github.com/VictoriousWealth/gemini-fact-checker) – Real-time wearable fact-checking badge built with Arduino, C++, Wi-Fi, and Gemini AI (Hackathon Project)
-
----
-
-### 🧠 Currently Learning
-
-- Spring Security & OAuth2 🔐 (JobTrackr project)  
-- Microservices & System Design ⚙️  
-- AI Integration with Gemini API 🤖 (Quiz App project)  
-- Advanced PostgreSQL & Query Optimization 🐘  
+| Project | Description | Tech |
+|--------|-------------|------|
+| **[JobTrackr](https://github.com/VictoriousWealth/job-application-tracker)** | Full-stack job application tracker to organize and streamline your job search. | Spring Boot, React |
+| **[AI Quiz App](https://github.com/VictoriousWealth/quiz-app-frontend)** | AI-powered quiz generator that creates interactive quizzes from file uploads using Gemini AI. | FastAPI, React |
+| **[Gemini Fact Checker](https://github.com/VictoriousWealth/gemini-fact-checker)** | Real-time wearable fact-checking badge built with Arduino for instant information validation. | C++, Arduino |
 
 ---
 
-### 💬 Fun Facts
+## 📊 Stats & Insights
 
-- 🌍 I've lived in Italy 🇮🇹, Nigeria 🇳🇬, Belgium 🇧🇪, and the UK 🇬🇧  
-- 🎤 I love singing Broadway tunes and karaoke nights  
-- 🎮 Gamer at heart – Wild Rift & Monster Legends  
-- 🍝 Big fan of spicy Nigerian fried rice special combo (ifykyk), Belgian waffles, and Pasta al dente  
-
----
-
-### 🌐 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/nick-efe-oni)
-- ✉️ Email: efeoni10@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=default" alt="Nick's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictoriousWealth&theme=default" alt="Profile Summary" />
+</p>
 
 ---
 
-_Thanks for stopping by! ⭐_
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/VictoriousWealth/VictoriousWealth/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
+</p>
+
+---
+
+## 🎮 Fun Badges & Extras
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VictoriousWealth&theme=flat&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" alt="Trophies" />
+  <br>
+  <img src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/assets/pokemon.svg" alt="Pokemon Collector Badge" width="200"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nick-efe-oni">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp; ✉️ efeoni10@gmail.com
+</p>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
