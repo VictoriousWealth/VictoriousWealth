@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=783&height=75&lines=I'm+Nick+Efe+Oni,+a+Software+Engineering+Student++++;A+Full+Stack+Developer+and+an+Automation+Enthusiast;">
 </p>
 <div align='center'>
-    <img src="https://komarev.com/ghpvc/?username=VictoriousWealth&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=190px /> 
+    <img src="https://komarev.com/ghpvc/?username=VictoriousWealth&label=PROFILE%20VIEWS&color=blue&style=flat?" alt="Nick" height=25px, width=190px /> 
 </div>
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="250" frameBorder="0" class="giphy-embed" allowFullScreen />
@@ -23,45 +23,49 @@
 
 ## 📊 Stats & Insights
 
-<div align="center">
-    <div style="display: flex;" >
-        <img align=left src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" />
-        <img width='47%' align=right src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" />
-<!--         <img src="https://ghchart.rshah.org/VictoriousWealth" alt="Nick's Repos Contributions" /> -->
-    </div>
-    <br><br><br><br><br><br><br><br><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Achievements" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Achievements" />
 
 ---
 
-## 🛠️ Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
+## 🛠️ Technologies I have worked with <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
 <p style="display: inline-block; text-align: center;">
   
   <kbd>
     <kbd>Programming Languages</kbd>
     <br><br>
-    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" />
-    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" />
-    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ruby/ruby-plain-wordmark.svg" />
-    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg" />
-    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" />
-    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
-    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" />
-    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+    <img title='Java' alt='Java, the programming language icon' width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg" />
+    <img title='Python' alt='Python, the programming language icon' width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg" />
+    <img title='Ruby' alt='Ruby, the programming language icon' width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ruby/ruby-plain-wordmark.svg" />
+    <img title='JavaScript' alt='JavaScript, the programming language icon' width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-plain.svg" />
+    <img title='TypeScript' alt='TypeScript, the programming language icon' width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" />
+    <img title='C++' alt='C++, the programming language icon' width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
+    <img title='Bash' alt='Bash, the programming language icon' width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" />
+    <img title='Haskell' alt='Haskell, the programming language icon' width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+    <img title='PHP' alt='PHP, the programming language icon' width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" />
   </kbd>
+  
+  <br>
 
   <kbd>
     <kbd>Front-end Development</kbd>
     <br><br>
     <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-plain-wordmark.svg" />
     <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-plain-wordmark.svg" />
-    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original-wordmark.svg" />
-    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg" />
     <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  </kbd>
+
+  <kbd>
+    <kbd>Databases</kbd>
+    <br><br>
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-plain-wordmark.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
   </kbd>
 
   <kbd>
@@ -71,35 +75,22 @@
     <img width="90px" src="https://miro.medium.com/v2/resize:fit:600/format:webp/1*NIAh2_nKxPwK3gq2Jgrcfw.png" />
     <img width="90px" src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/flask-icon-greenish" />
     <img width="90px" src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/fast-api-icon" />
-    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <!-- for JavaFX -->
-  </kbd>
-
-  <kbd>
-    <kbd>Databases</kbd>
-    <br><br>
-    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original-wordmark.svg" />
   </kbd>
 
   <kbd>
     <kbd>DevOps & Deployment</kbd>
     <br><br>
-    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <!-- For CI and version control -->
-  </kbd>
-
-
-  <kbd>
-    <kbd>Terminal & Scripting</kbd>
-    <br><br>
-    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" />
     <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
-    
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/heroku/heroku-original-wordmark.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain-wordmark.svg" />
+    <img width="90px" src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/terraform-icon-purple" /> 
+    <img width="90px" src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/cloudflare-icon.png" /> 
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rabbitmq/rabbitmq-original-wordmark.svg" /> 
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-plain-wordmark.svg" /> 
   </kbd>
-
+  
   <kbd>
     <kbd>Embedded & IoT</kbd>
     <br><br>
