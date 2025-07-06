@@ -8,7 +8,7 @@
   
 </div>
 
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="250" frameBorder="0" class="giphy-embed" allowFullScreen />
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="300" height="250" frameBorder="0" class="giphy-embed" allowFullScreen />
 
 
 <ul>
@@ -32,7 +32,7 @@
 
 <br>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" height="180em" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" height="180em" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" height="150em" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" height="150em" />
 
 ---
 <br/><br/><br/><br/><br/><br/>
