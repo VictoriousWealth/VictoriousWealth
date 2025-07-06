@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=783&height=75&lines=I'm+Nick+Efe+Oni,+a+Software+Engineering+Student++++;A+Full+Stack+Developer+and+an+Automation+Enthusiast;">
 </p>
 <div align='center'>
-    <img src="https://komarev.com/ghpvc/?username=VictoriousWealth&label=PROFILE%20VIEWS&color=blue&style=flat?" alt="Nick" height=25px, width=190px /> 
+    <img src="https://komarev.com/ghpvc/?username=VictoriousWealth&label=PROFILE%20VIEWS&color=blue&style=flat?" alt="Nick" height=25px, width=190px />
+  
 </div>
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="250" frameBorder="0" class="giphy-embed" allowFullScreen />
@@ -12,24 +13,29 @@
 
 <ul>
   <li>🎓 MEng Software Engineering @ University of Sheffield (2027)</li>
-  <li>🔭 Passionate about Backend, AI & Full-Stack Development | Curious about FinTech & Cloud</li>
+  <li>🔭 Passionate about Backend, AI & Full-Stack Development | Curious about FinTech, IOT & Cloud</li>
   <li>🌍 Global Perspective: 🇮🇹 🇳🇬 🇧🇪 🇬🇧</li>
+  <li>💼 Balancing full-time studies with part-time work, being a president of a society, and working with 3 potential start-ups</li>
+  <li>🚀 Explore my projects to gain sense of what I do and like to do</li>
   <li>📫 Reach me at <a href="mailto:efeoni10@gmail.com"><b>efeoni10@gmail.com</b></a></li>
-  <li>📄 Learn more about my experiences at [nick-efe-oni.dev](https://nick-efe-oni.dev) </li>
-  <li>📄 Learn more about my experiences at [nick-efe-oni.dev](https://nick-efe-oni.dev) </li>
+  <li>🌐 Portfolio & projects: <a href="https://nick-efe-oni.dev" target="_blank"><b>nick-efe-oni.dev</b></a></li>
 </ul>
 
 ---
 
 ## 📊 Stats & Insights
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" />
-<kbd>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Achievements" />
-</kbd>
+</div>
+
+<br>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" height="180em" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" height="180em" />
 
 ---
+<br/><br/><br/><br/><br/><br/>
 
 ## 🛠️ Technologies I have worked with <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
 
@@ -64,13 +70,6 @@
   </kbd>
 
   <kbd>
-    <kbd>Databases</kbd>
-    <br><br>
-    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-plain-wordmark.svg" />
-    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
-  </kbd>
-
-  <kbd>
     <kbd>Back-end Development</kbd>
     <br><br>
     <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rails/rails-original-wordmark.svg" />
@@ -78,6 +77,13 @@
     <img width="90px" src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/flask-icon-greenish" />
     <img width="90px" src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/fast-api-icon" />
     <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original-wordmark.svg" />
+  </kbd>
+
+  <kbd>
+    <kbd>Databases</kbd>
+    <br><br>
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-plain-wordmark.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg" />
   </kbd>
 
   <kbd>
@@ -119,21 +125,6 @@
 
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nick-efe-oni">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp; ✉️ efeoni10@gmail.com
-</p>
-
----
-
-
-
-
 
 
 
