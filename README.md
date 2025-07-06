@@ -81,8 +81,6 @@
     <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/spring/spring-original-wordmark.svg" />
   </kbd>
 
-  <br>
-
   <kbd>
     <kbd>Databases</kbd>
     <br><br>
