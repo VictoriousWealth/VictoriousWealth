@@ -111,7 +111,8 @@
     <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
     <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
     <img width="90px" src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/postman-icon.png" />
-    <img width="90px" src="" />
+    <img width="90px" src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/burpsuite-icon.png" />
+    <img width="90px" src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/owasp-zap-icon.png" />
   </kbd>
 
 </p>
