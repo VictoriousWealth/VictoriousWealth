@@ -32,7 +32,7 @@
 
 <br>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" height="150em" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" height="150em" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" height="80em" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" height="80em" />
 
 ---
 <br/><br/><br/><br/><br/><br/>
