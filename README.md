@@ -25,7 +25,9 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" />
 <img src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Achievements" />
+<kbd>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Achievements" />
+</kbd>
 
 ---
 
@@ -79,6 +81,13 @@
   </kbd>
 
   <kbd>
+    <kbd>Embedded & IoT</kbd>
+    <br><br>
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original-wordmark.svg" />
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ros/ros-original-wordmark.svg" />
+  </kbd>
+
+  <kbd>
     <kbd>DevOps & Deployment</kbd>
     <br><br>
     <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
@@ -91,20 +100,18 @@
     <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kubernetes/kubernetes-plain-wordmark.svg" /> 
   </kbd>
   
-  <kbd>
-    <kbd>Embedded & IoT</kbd>
-    <br><br>
-    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original-wordmark.svg" />
-    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ros/ros-original-wordmark.svg" />
-  </kbd>
+  
 
   <kbd>
     <kbd>IDEs & Tools</kbd>
     <br><br>
+    <img width="90px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vim/vim-original.svg" />
     <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
     <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+    <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
     <img width="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
+    <img width="90px" src="https://github.com/VictoriousWealth/VictoriousWealth/blob/main/postman-icon.png" />
+    <img width="90px" src="" />
   </kbd>
 
 </p>
