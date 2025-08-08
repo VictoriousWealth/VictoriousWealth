@@ -25,14 +25,15 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Achievements" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" width="500em" />
 </div>
 
-<br>
 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" width="420em" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" width="390em" />
-</div>
+<!-- <div> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictoriousWealth&theme=tokyonight" alt="Nick's GitHub Streak" width="420em" /> -->
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=VictoriousWealth&show_icons=true&theme=tokyonight" alt="Nick's GitHub Stats" width="390em" /> -->
+<!-- </div> -->
 
 ---
 
